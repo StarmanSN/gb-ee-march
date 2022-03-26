@@ -1,0 +1,5 @@
+ru\gb\model\Cat$CatBuilder.class
+ru\gb\servlet\CatServlet.class
+ru\gb\servlet\TestHttpServlet.class
+ru\gb\servlet\BasicServlet.class
+ru\gb\model\Cat.class
